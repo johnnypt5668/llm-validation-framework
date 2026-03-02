@@ -1,8 +1,6 @@
 # LLM Validation & Risk Assessment Framework
 
-A structured testing framework for evaluating Large Language Model (LLM) behavior across instruction compliance, hallucination risk, and response integrity.
-
-This project demonstrates automated validation of LLM outputs using Selenium-based UI interaction, response parsing, and HTML dashboard reporting.
+A structured evaluation framework for testing Large Language Model behavior, compliance, and hallucination risk using automated validation workflows.
 
 ---
 
